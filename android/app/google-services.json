@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "74840937020",
+    "project_id": "guest-house-rental-system",
+    "storage_bucket": "guest-house-rental-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74840937020:android:c39554a368d069a1046939",
+        "android_client_info": {
+          "package_name": "com.example.guest_house_rental_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgKISF7thqxrHUk8JiarXCUEEbyUzn8Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
